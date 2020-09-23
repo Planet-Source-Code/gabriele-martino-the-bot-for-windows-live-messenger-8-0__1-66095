@@ -1,0 +1,12 @@
+This program is not really complete, i'm waiting to see comments to try to make it better. Now i have still problem with:
+-groups. i can't load all contacts in a group, but only a few
+-nickname: how can i change it?
+
+i think i'll add:
+-notify sound
+-a better UI, maybe a skin
+-some customizable parameters, like window color, font, etc..
+
+please post in the site or mail me any suggestion. thanks to you all
+
+								Gabriele
